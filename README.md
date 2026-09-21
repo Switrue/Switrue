@@ -18,31 +18,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Switrue&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Switrue&theme=radical&locale=ru" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Switrue&layout=compact&theme=radical&locale=ru" alt="Top Languages" />
-</p>
-
----
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Switrue&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## How to contact me
 
