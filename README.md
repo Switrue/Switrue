@@ -19,7 +19,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
-## GitHub Statistics
+## GitHub statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Switrue&theme=radical&locale=ru" alt="GitHub Streak" />
@@ -31,7 +31,7 @@
   <a href="https://t.me/WatTroll">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="kirill.kuxtin@yandex.ru">
+  <a href="mailto:kirill.kuxtin@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
