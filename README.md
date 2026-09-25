@@ -23,9 +23,6 @@
 ## How to contact me
 
 <p align="center">
-  <a href="https://t.me/WatTroll">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a href="mailto:kirill.kuxtin@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
